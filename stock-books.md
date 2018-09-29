@@ -50,7 +50,7 @@ google search with keyword "短线交易秘诀 pdf"
 
 [http://www.kindle178.com/detail\_1946.html](http://www.kindle178.com/detail_1946.html)
 
-#### 2018-09-18\(未下载\)
+#### 2018-09-18\(已下载\)
 
 * ##### 经济学入门
 
