@@ -16,7 +16,15 @@
 
 [https://legacy.gitbook.com/book/gwpost/jenkins-the-definitive-guide/details](https://legacy.gitbook.com/book/gwpost/jenkins-the-definitive-guide/details)
 
-##### 
+#### 2018-10-08\(未下载\)
+
+* ##### Windows串口编程
+
+Keyword： ‘VC 串口 超时 filetype:doc’ in google search engine
+
+Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
+
+
 
 ##### 
 
