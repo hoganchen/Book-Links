@@ -66,3 +66,9 @@ google search with keyword "短线交易秘诀 pdf"
 
 [https://hdpdf.blog/2018/01/16/我的第一本经济学漫画-李汉军（高清扫描pdf电子书/](https://hdpdf.blog/2018/01/16/我的第一本经济学漫画-李汉军（高清扫描pdf电子书/)
 
+#### 2018-10-08\(未下载\)
+
+* ##### 趋势交易
+
+https://sobooks.cc/books/10431.html
+
