@@ -76,13 +76,13 @@ google search with keyword "短线交易秘诀 pdf"
 
 * ##### 经济学入门
 
-http://www.ireadweek.com/index.php/bookInfo/3547.html
+http://www.ireadweek.com/index.php/bookList/31.html
 
-http://mebook.cc/3088.html
+[http://www.ireadweek.com/index.php/bookInfo/3547.html](http://www.ireadweek.com/index.php/bookInfo/3547.html)
 
-http://mebook.cc/17058.html
+[http://mebook.cc/3088.html](http://mebook.cc/3088.html)
 
-http://mebook.cc/25025.html
+[http://mebook.cc/17058.html](http://mebook.cc/17058.html)
 
-
+[http://mebook.cc/25025.html](http://mebook.cc/25025.html)
 
