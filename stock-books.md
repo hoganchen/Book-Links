@@ -70,5 +70,19 @@ google search with keyword "短线交易秘诀 pdf"
 
 * ##### 趋势交易
 
-https://sobooks.cc/books/10431.html
+[https://sobooks.cc/books/10431.html](https://sobooks.cc/books/10431.html)
+
+#### 2018-11-02\(未下载\)
+
+* ##### 经济学入门
+
+http://www.ireadweek.com/index.php/bookInfo/3547.html
+
+http://mebook.cc/3088.html
+
+http://mebook.cc/17058.html
+
+http://mebook.cc/25025.html
+
+
 
