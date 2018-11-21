@@ -24,9 +24,13 @@ Keyword： ‘VC 串口 超时 filetype:doc’ in google search engine
 
 Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
+#### 2018-11-21\(未下载\)
+
+* ##### Python Cheat Sheet
+
+https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners\_python\_cheat\_sheet\_pcc\_all.pdf
 
 
-##### 
 
 
 
