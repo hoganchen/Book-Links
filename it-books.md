@@ -28,9 +28,13 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### Python Cheat Sheet
 
-https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners\_python\_cheat\_sheet\_pcc\_all.pdf
+[https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners\_python\_cheat\_sheet\_pcc\_all.pdf](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf)
 
+#### 2018-11-23\(未下载\)
 
+* ##### Python并行编程 中文版
 
+https://python-parallel-programmning-cookbook.readthedocs.io/zh\_CN/latest/index.html
 
+https://media.readthedocs.org/pdf/python-parallel-programmning-cookbook/latest/python-parallel-programmning-cookbook.pdf
 
