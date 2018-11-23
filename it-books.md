@@ -34,7 +34,19 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### Python并行编程 中文版
 
-https://python-parallel-programmning-cookbook.readthedocs.io/zh\_CN/latest/index.html
+[https://python-parallel-programmning-cookbook.readthedocs.io/zh\_CN/latest/index.html](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html)
 
-https://media.readthedocs.org/pdf/python-parallel-programmning-cookbook/latest/python-parallel-programmning-cookbook.pdf
+[https://media.readthedocs.org/pdf/python-parallel-programmning-cookbook/latest/python-parallel-programmning-cookbook.pdf](https://media.readthedocs.org/pdf/python-parallel-programmning-cookbook/latest/python-parallel-programmning-cookbook.pdf)
+
+#### 2018-11-23\(未下载\)
+
+* ##### 《Python Cookbook》3rd 中文版3.0.0
+
+https://github.com/yidao620c/python3-cookbook
+
+https://pan.baidu.com/s/1pL1cI9d
+
+
+
+
 
