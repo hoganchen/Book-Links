@@ -46,7 +46,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://pan.baidu.com/s/1pL1cI9d](https://pan.baidu.com/s/1pL1cI9d)
 
-#### 2018-12-11\(未下载\)
+#### 2018-12-11\(已下载\)
 
 * ##### Pandas 官方教程
 
