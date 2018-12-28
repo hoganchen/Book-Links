@@ -52,3 +52,9 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://legacy.gitbook.com/book/wizardforcel/pandas-official-tut-zh/details](https://legacy.gitbook.com/book/wizardforcel/pandas-official-tut-zh/details)
 
+#### 2018-12-28\(未下载\)
+
+* ##### JavaScript高级程序设计
+
+http://mebook.cc/18910.html
+
