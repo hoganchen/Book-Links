@@ -62,75 +62,81 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### Scipy reference guide
 
-https://docs.scipy.org/doc/scipy/reference/
+[https://docs.scipy.org/doc/scipy/reference/](https://docs.scipy.org/doc/scipy/reference/)
 
 * ##### Numpy and Scipy Documentation
 
-https://docs.scipy.org/doc/
+[https://docs.scipy.org/doc/](https://docs.scipy.org/doc/)
 
 * ##### SciPy Lecture Notes中文版
 
-https://legacy.gitbook.com/book/wizardforcel/scipy-lecture-notes/details
+[https://legacy.gitbook.com/book/wizardforcel/scipy-lecture-notes/details](https://legacy.gitbook.com/book/wizardforcel/scipy-lecture-notes/details)
 
 * ##### SciPy Lecture Notes 中文版
 
-https://www.kancloud.cn/wizardforcel/scipy-lecture-notes
-
-
+[https://www.kancloud.cn/wizardforcel/scipy-lecture-notes](https://www.kancloud.cn/wizardforcel/scipy-lecture-notes)
 
 * ##### NumPy Manual
 
-https://docs.scipy.org/doc/numpy/
+[https://docs.scipy.org/doc/numpy/](https://docs.scipy.org/doc/numpy/)
 
 * ##### Numpy用户手册
 
-https://legacy.gitbook.com/book/wanix/numpy\_user\_guide/details
+[https://legacy.gitbook.com/book/wanix/numpy\_user\_guide/details](https://legacy.gitbook.com/book/wanix/numpy_user_guide/details)
 
 * ##### TutorialsPoint NumPy 教程
 
-https://legacy.gitbook.com/book/wizardforcel/ts-numpy-tut/details
+[https://legacy.gitbook.com/book/wizardforcel/ts-numpy-tut/details](https://legacy.gitbook.com/book/wizardforcel/ts-numpy-tut/details)
 
 * ##### NumPy Essentials 带注释源码
 
-https://legacy.gitbook.com/book/wizardforcel/numpy-essentials-code-notes/details
+[https://legacy.gitbook.com/book/wizardforcel/numpy-essentials-code-notes/details](https://legacy.gitbook.com/book/wizardforcel/numpy-essentials-code-notes/details)
 
 * ##### NumPy参考
 
-https://apachecn.github.io/numpy-ref-zh/
-
-
+[https://apachecn.github.io/numpy-ref-zh/](https://apachecn.github.io/numpy-ref-zh/)
 
 * ##### Matplotlib User's Guide
 
-https://matplotlib.org/contents.html
+[https://matplotlib.org/contents.html](https://matplotlib.org/contents.html)
 
 * ##### Matplotlib用户指南
 
-https://wizardforcel.gitbooks.io/matplotlib-user-guide/
+[https://wizardforcel.gitbooks.io/matplotlib-user-guide/](https://wizardforcel.gitbooks.io/matplotlib-user-guide/)
 
-https://legacy.gitbook.com/book/wizardforcel/matplotlib-user-guide/details
+[https://legacy.gitbook.com/book/wizardforcel/matplotlib-user-guide/details](https://legacy.gitbook.com/book/wizardforcel/matplotlib-user-guide/details)
 
 * ##### Matplotlib入门教程
 
-https://legacy.gitbook.com/book/wizardforcel/matplotlib-intro-tut/details
+[https://legacy.gitbook.com/book/wizardforcel/matplotlib-intro-tut/details](https://legacy.gitbook.com/book/wizardforcel/matplotlib-intro-tut/details)
 
 * ##### Matplotlib使用教程
 
-http://www.bioinfo.org.cn/~casp/temp/spring.lecture/Matplotlib\_slides.pdf
-
-
+[http://www.bioinfo.org.cn/~casp/temp/spring.lecture/Matplotlib\_slides.pdf](http://www.bioinfo.org.cn/~casp/temp/spring.lecture/Matplotlib_slides.pdf)
 
 * ##### pandas Documentation
 
-http://pandas.pydata.org/pandas-docs/stable/
+[http://pandas.pydata.org/pandas-docs/stable/](http://pandas.pydata.org/pandas-docs/stable/)
 
 * ##### Pandas 官方教程
 
-https://legacy.gitbook.com/book/wizardforcel/pandas-official-tut-zh/details
+[https://legacy.gitbook.com/book/wizardforcel/pandas-official-tut-zh/details](https://legacy.gitbook.com/book/wizardforcel/pandas-official-tut-zh/details)
 
 * ##### Pandas Cookbook 带注释源码
 
-https://legacy.gitbook.com/book/wizardforcel/pandas-cookbook-code-notes/details
+[https://legacy.gitbook.com/book/wizardforcel/pandas-cookbook-code-notes/details](https://legacy.gitbook.com/book/wizardforcel/pandas-cookbook-code-notes/details)
+
+* ##### 同济线性代数教材
+
+https://github.com/KeKe-Li/book/blob/master/AI/%E5%90%8C%E6%B5%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%95%99%E6%9D%90.pdf
+
+* ##### 线性代数
+
+http://www.pup.cn/ztpage/gzgz/PDF/book/%E9%AB%98%E8%81%8C%E6%95%B0%E5%AD%A6/13.%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.pdf
+
+* ##### 线性代数讲义
+
+http://math.ecnu.edu.cn/~hryuan/preprint/la.pdf
 
 
 
