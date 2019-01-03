@@ -58,3 +58,81 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [http://mebook.cc/18910.html](http://mebook.cc/18910.html)
 
+#### 2019-01-03\(未下载\)
+
+* ##### Scipy reference guide
+
+https://docs.scipy.org/doc/scipy/reference/
+
+* ##### Numpy and Scipy Documentation
+
+https://docs.scipy.org/doc/
+
+* ##### SciPy Lecture Notes中文版
+
+https://legacy.gitbook.com/book/wizardforcel/scipy-lecture-notes/details
+
+* ##### SciPy Lecture Notes 中文版
+
+https://www.kancloud.cn/wizardforcel/scipy-lecture-notes
+
+
+
+* ##### NumPy Manual
+
+https://docs.scipy.org/doc/numpy/
+
+* ##### Numpy用户手册
+
+https://legacy.gitbook.com/book/wanix/numpy\_user\_guide/details
+
+* ##### TutorialsPoint NumPy 教程
+
+https://legacy.gitbook.com/book/wizardforcel/ts-numpy-tut/details
+
+* ##### NumPy Essentials 带注释源码
+
+https://legacy.gitbook.com/book/wizardforcel/numpy-essentials-code-notes/details
+
+* ##### NumPy参考
+
+https://apachecn.github.io/numpy-ref-zh/
+
+
+
+* ##### Matplotlib User's Guide
+
+https://matplotlib.org/contents.html
+
+* ##### Matplotlib用户指南
+
+https://wizardforcel.gitbooks.io/matplotlib-user-guide/
+
+https://legacy.gitbook.com/book/wizardforcel/matplotlib-user-guide/details
+
+* ##### Matplotlib入门教程
+
+https://legacy.gitbook.com/book/wizardforcel/matplotlib-intro-tut/details
+
+* ##### Matplotlib使用教程
+
+http://www.bioinfo.org.cn/~casp/temp/spring.lecture/Matplotlib\_slides.pdf
+
+
+
+* ##### pandas Documentation
+
+http://pandas.pydata.org/pandas-docs/stable/
+
+* ##### Pandas 官方教程
+
+https://legacy.gitbook.com/book/wizardforcel/pandas-official-tut-zh/details
+
+* ##### Pandas Cookbook 带注释源码
+
+https://legacy.gitbook.com/book/wizardforcel/pandas-cookbook-code-notes/details
+
+
+
+
+
