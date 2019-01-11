@@ -58,7 +58,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [http://mebook.cc/18910.html](http://mebook.cc/18910.html)
 
-#### 2019-01-03\(未下载\)
+#### 2019-01-03\(已下载\)
 
 * ##### Scipy reference guide
 
@@ -128,17 +128,33 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### 同济线性代数教材
 
-https://github.com/KeKe-Li/book/blob/master/AI/%E5%90%8C%E6%B5%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%95%99%E6%9D%90.pdf
+[https://github.com/KeKe-Li/book/blob/master/AI/同济线性代数教材.pdf](https://github.com/KeKe-Li/book/blob/master/AI/同济线性代数教材.pdf)
 
 * ##### 线性代数
 
-http://www.pup.cn/ztpage/gzgz/PDF/book/%E9%AB%98%E8%81%8C%E6%95%B0%E5%AD%A6/13.%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0.pdf
+[http://www.pup.cn/ztpage/gzgz/PDF/book/高职数学/13.线性代数.pdf](http://www.pup.cn/ztpage/gzgz/PDF/book/高职数学/13.线性代数.pdf)
 
 * ##### 线性代数讲义
 
-http://math.ecnu.edu.cn/~hryuan/preprint/la.pdf
+[http://math.ecnu.edu.cn/~hryuan/preprint/la.pdf](http://math.ecnu.edu.cn/~hryuan/preprint/la.pdf)
 
+#### 2019-01-11\(未下载\)
 
+* ##### 图解机器学习
 
+http://www.java1234.com/a/javabook/javabase/2018/0404/10852.html
 
+http://www.pansoso.com/f/123663/
+
+https://www.jb51.net/books/528847.html
+
+* ##### Python深度学习
+
+https://www.yuque.com/winforlife/vgzph9/tmt4x2
+
+https://www.yuque.com/winforlife/vgzph9
+
+* ##### 深度学习入门：基于Python的理论与实现
+
+https://www.yuque.com/winforlife/vgzph9/gyygva
 
