@@ -142,19 +142,21 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### 图解机器学习
 
-http://www.java1234.com/a/javabook/javabase/2018/0404/10852.html
+[http://www.java1234.com/a/javabook/javabase/2018/0404/10852.html](http://www.java1234.com/a/javabook/javabase/2018/0404/10852.html)
 
-http://www.pansoso.com/f/123663/
+[http://www.pansoso.com/f/123663/](http://www.pansoso.com/f/123663/)
 
-https://www.jb51.net/books/528847.html
+[https://www.jb51.net/books/528847.html](https://www.jb51.net/books/528847.html)
 
 * ##### Python深度学习
 
-https://www.yuque.com/winforlife/vgzph9/tmt4x2
+[https://www.yuque.com/winforlife/vgzph9/tmt4x2](https://www.yuque.com/winforlife/vgzph9/tmt4x2)
 
-https://www.yuque.com/winforlife/vgzph9
+[https://www.yuque.com/winforlife/vgzph9](https://www.yuque.com/winforlife/vgzph9)
 
 * ##### 深度学习入门：基于Python的理论与实现
 
-https://www.yuque.com/winforlife/vgzph9/gyygva
+[https://www.yuque.com/winforlife/vgzph9/gyygva](https://www.yuque.com/winforlife/vgzph9/gyygva)
+
+https://github.com/zjcao/books
 
