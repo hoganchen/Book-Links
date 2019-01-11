@@ -160,15 +160,17 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://github.com/zjcao/books](https://github.com/zjcao/books)
 
-http://www.yuanxiao.me/2018/11/23/deep-learning-from-scratch/
+[http://www.yuanxiao.me/2018/11/23/deep-learning-from-scratch/](http://www.yuanxiao.me/2018/11/23/deep-learning-from-scratch/)
 
 * ##### 动手学深度学习
 
-https://zh.gluon.ai
+[https://zh.gluon.ai](https://zh.gluon.ai)
 
-https://github.com/d2l-ai/d2l-zh
+[https://github.com/d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)
 
 [https://zh.d2l.ai/d2l-zh.pdf](https://zh.d2l.ai/d2l-zh.pdf)
 
+* ##### Microsoft
 
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Chinese-DL-MethodsApps-main-1.pdf
 
