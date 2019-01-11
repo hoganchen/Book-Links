@@ -158,5 +158,13 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://www.yuque.com/winforlife/vgzph9/gyygva](https://www.yuque.com/winforlife/vgzph9/gyygva)
 
-https://github.com/zjcao/books
+[https://github.com/zjcao/books](https://github.com/zjcao/books)
+
+* ##### 动手学深度学习
+
+
+
+https://zh.d2l.ai/d2l-zh.pdf
+
+
 
