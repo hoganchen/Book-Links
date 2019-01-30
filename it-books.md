@@ -172,5 +172,23 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### Microsoft
 
-https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Chinese-DL-MethodsApps-main-1.pdf
+[https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Chinese-DL-MethodsApps-main-1.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Chinese-DL-MethodsApps-main-1.pdf)
+
+#### 2019-01-30\(未下载\)
+
+* ##### Head First HTML与CSS
+
+http://kuige123.com/head-first-html-css-2.html
+
+https://ziliaodaquan.ctfile.com/fs/1970057-220231940
+
+https://www.jianshu.com/p/023987c081d7
+
+http://udn.yyuap.com/thread-50293-1-1.html
+
+http://www.java1234.com/a/javabook/webbase/2016/0725/6452.html
+
+https://www.52pojie.cn/thread-611188-1-1.html
+
+
 
