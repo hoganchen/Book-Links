@@ -190,3 +190,13 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://www.52pojie.cn/thread-611188-1-1.html](https://www.52pojie.cn/thread-611188-1-1.html)
 
+#### 2019-02-12\(未下载\)
+
+* ##### BLE
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=2ahUKEwjei-jDzLXgAhVDTrwKHTmCBLwQFjAGegQIAxAC&url=https%3A%2F%2Fwww.bluetooth.com%2F~%2Fmedia%2Ffiles%2Fmarketing%2Fmesh-downloads%2Fbluetooth-mesh-paving-the-way-for-smart-lighting-sc.ashx%3Fla%3Dzh-cn&usg=AOvVaw3aFSYhEQl5rJvvHk6Z8cfB
+
+https://wenku.baidu.com/view/6ad10cb36aec0975f46527d3240c844769eaa0eb.html
+
+
+
