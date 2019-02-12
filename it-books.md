@@ -204,5 +204,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://e2echina.ti.com/question\_answer/wireless\_connectivity/bluetooth/f/103/t/156405](https://e2echina.ti.com/question_answer/wireless_connectivity/bluetooth/f/103/t/156405)
 
-https://www.silabs.com/documents/login/application-notes/an1142-mesh-network-performance-comparison-cn.pdf
+[https://www.silabs.com/documents/login/application-notes/an1142-mesh-network-performance-comparison-cn.pdf](https://www.silabs.com/documents/login/application-notes/an1142-mesh-network-performance-comparison-cn.pdf)
+
+https://www.silabs.com/documents/login/application-notes/an1137-bluetooth-mesh-network-performance-cn.pdf
 
