@@ -194,9 +194,15 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### BLE
 
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=2ahUKEwjei-jDzLXgAhVDTrwKHTmCBLwQFjAGegQIAxAC&url=https%3A%2F%2Fwww.bluetooth.com%2F~%2Fmedia%2Ffiles%2Fmarketing%2Fmesh-downloads%2Fbluetooth-mesh-paving-the-way-for-smart-lighting-sc.ashx%3Fla%3Dzh-cn&usg=AOvVaw3aFSYhEQl5rJvvHk6Z8cfB
+[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=2ahUKEwjei-jDzLXgAhVDTrwKHTmCBLwQFjAGegQIAxAC&url=https%3A%2F%2Fwww.bluetooth.com%2F~%2Fmedia%2Ffiles%2Fmarketing%2Fmesh-downloads%2Fbluetooth-mesh-paving-the-way-for-smart-lighting-sc.ashx%3Fla%3Dzh-cn&usg=AOvVaw3aFSYhEQl5rJvvHk6Z8cfB](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=2ahUKEwjei-jDzLXgAhVDTrwKHTmCBLwQFjAGegQIAxAC&url=https%3A%2F%2Fwww.bluetooth.com%2F~%2Fmedia%2Ffiles%2Fmarketing%2Fmesh-downloads%2Fbluetooth-mesh-paving-the-way-for-smart-lighting-sc.ashx%3Fla%3Dzh-cn&usg=AOvVaw3aFSYhEQl5rJvvHk6Z8cfB)
 
-https://wenku.baidu.com/view/6ad10cb36aec0975f46527d3240c844769eaa0eb.html
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=10&ved=2ahUKEwiFtYXk2rXgAhXGwbwKHbbPC7QQFjAJegQIABAC&url=https%3A%2F%2Fwww.bluetooth.com%2F~%2Fmedia%2Ffiles%2Fmarketing%2Fmesh-downloads%2Fbluetooth-mesh-technology-overview-sc.ashx%3Fla%3Dzh-cn&usg=AOvVaw0ngglsiw32FH0-jcMnguCJ
+
+[https://wenku.baidu.com/view/6ad10cb36aec0975f46527d3240c844769eaa0eb.html](https://wenku.baidu.com/view/6ad10cb36aec0975f46527d3240c844769eaa0eb.html)
+
+https://www.cypress.com/file/137361/download
+
+https://e2echina.ti.com/question\_answer/wireless\_connectivity/bluetooth/f/103/t/156405
 
 
 
