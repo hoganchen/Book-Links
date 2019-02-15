@@ -206,5 +206,15 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://www.silabs.com/documents/login/application-notes/an1142-mesh-network-performance-comparison-cn.pdf](https://www.silabs.com/documents/login/application-notes/an1142-mesh-network-performance-comparison-cn.pdf)
 
-https://www.silabs.com/documents/login/application-notes/an1137-bluetooth-mesh-network-performance-cn.pdf
+[https://www.silabs.com/documents/login/application-notes/an1137-bluetooth-mesh-network-performance-cn.pdf](https://www.silabs.com/documents/login/application-notes/an1137-bluetooth-mesh-network-performance-cn.pdf)
+
+#### 2019-02-12\(未下载\)
+
+* ##### BLE
+
+http://www.tuner168.com/uploads/soft/170221/3-1F221140329.pdf
+
+http://bbs.eeworld.com.cn/thread-508186-1-1.html
+
+
 
