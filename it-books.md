@@ -222,7 +222,9 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### TestLink
 
-https://wiki.openoffice.org/w/images/1/1b/Testlink\_user\_manual.pdf
+[https://wiki.openoffice.org/w/images/1/1b/Testlink\_user\_manual.pdf](https://wiki.openoffice.org/w/images/1/1b/Testlink_user_manual.pdf)
+
+http://speed.cis.nctu.edu.tw/~ydlin/miscpub/YALin-OpenSourceTesting.pdf
 
 [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwjeqYCJ-tjgAhVZIqYKHa3jAtgQFjAHegQIAxAC&url=http%3A%2F%2Fmantis.testlink.org%2Ffile\_download.php%3Ffile\_id%3D3303%26type%3Dbug&usg=AOvVaw1Rj1YYXY4IBsBqo-0Cj5BW](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwjeqYCJ-tjgAhVZIqYKHa3jAtgQFjAHegQIAxAC&url=http%3A%2F%2Fmantis.testlink.org%2Ffile_download.php%3Ffile_id%3D3303%26type%3Dbug&usg=AOvVaw1Rj1YYXY4IBsBqo-0Cj5BW)
 
