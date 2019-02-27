@@ -190,7 +190,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://www.52pojie.cn/thread-611188-1-1.html](https://www.52pojie.cn/thread-611188-1-1.html)
 
-#### 2019-02-12\(未下载\)
+#### 2019-02-12\(已下载\)
 
 * ##### BLE
 
@@ -208,7 +208,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://www.silabs.com/documents/login/application-notes/an1137-bluetooth-mesh-network-performance-cn.pdf](https://www.silabs.com/documents/login/application-notes/an1137-bluetooth-mesh-network-performance-cn.pdf)
 
-#### 2019-02-15\(未下载\)
+#### 2019-02-15\(已下载\)
 
 * ##### BLE
 
@@ -218,13 +218,25 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiAyIHtqb3gAhVGUrwKHeMXBcwQFjACegQIBBAC&url=https%3A%2F%2Fwww.bluetooth.com%2F~%2Fmedia%2F08586eafe96047daaac5a31cbf728222.ashx&usg=AOvVaw0knjbzbD-lnhQDnRskY0s9](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwiAyIHtqb3gAhVGUrwKHeMXBcwQFjACegQIBBAC&url=https%3A%2F%2Fwww.bluetooth.com%2F~%2Fmedia%2F08586eafe96047daaac5a31cbf728222.ashx&usg=AOvVaw0knjbzbD-lnhQDnRskY0s9)
 
-#### 2019-02-26\(未下载\)
+#### 2019-02-26\(已下载\)
 
 * ##### TestLink
 
 [https://wiki.openoffice.org/w/images/1/1b/Testlink\_user\_manual.pdf](https://wiki.openoffice.org/w/images/1/1b/Testlink_user_manual.pdf)
 
-http://speed.cis.nctu.edu.tw/~ydlin/miscpub/YALin-OpenSourceTesting.pdf
+[http://speed.cis.nctu.edu.tw/~ydlin/miscpub/YALin-OpenSourceTesting.pdf](http://speed.cis.nctu.edu.tw/~ydlin/miscpub/YALin-OpenSourceTesting.pdf)
 
 [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwjeqYCJ-tjgAhVZIqYKHa3jAtgQFjAHegQIAxAC&url=http%3A%2F%2Fmantis.testlink.org%2Ffile\_download.php%3Ffile\_id%3D3303%26type%3Dbug&usg=AOvVaw1Rj1YYXY4IBsBqo-0Cj5BW](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwjeqYCJ-tjgAhVZIqYKHa3jAtgQFjAHegQIAxAC&url=http%3A%2F%2Fmantis.testlink.org%2Ffile_download.php%3Ffile_id%3D3303%26type%3Dbug&usg=AOvVaw1Rj1YYXY4IBsBqo-0Cj5BW)
+
+#### 2019-02-27\(未下载\)
+
+* ##### TestLink
+
+https://www.cnblogs.com/shouke/p/10157656.html
+
+http://blog.sina.com.cn/s/blog\_13cc013b50102wicj.html
+
+https://www.soohub.com/show/8a9d7e1967884c86016795e065725227
+
+http://www.yunpangou.com/114805145913234047
 
