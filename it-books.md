@@ -232,11 +232,33 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### TestLink
 
-https://www.cnblogs.com/shouke/p/10157656.html
+[https://www.cnblogs.com/shouke/p/10157656.html](https://www.cnblogs.com/shouke/p/10157656.html)
 
-http://blog.sina.com.cn/s/blog\_13cc013b50102wicj.html
+[http://blog.sina.com.cn/s/blog\_13cc013b50102wicj.html](http://blog.sina.com.cn/s/blog_13cc013b50102wicj.html)
 
-https://www.soohub.com/show/8a9d7e1967884c86016795e065725227
+[https://www.soohub.com/show/8a9d7e1967884c86016795e065725227](https://www.soohub.com/show/8a9d7e1967884c86016795e065725227)
 
-http://www.yunpangou.com/114805145913234047
+[http://www.yunpangou.com/114805145913234047](http://www.yunpangou.com/114805145913234047)
+
+#### 2019-03-20\(未下载\)
+
+* ##### 图解HTTP
+
+http://www.yuanxiao.me/2018/11/29/graphic-http/
+
+https://github.com/Pines-Cheng/share/blob/master/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%9B%BE%E8%A7%A3HTTP%20.pdf
+
+https://blog.csdn.net/lk142500/article/details/82106956
+
+https://www.jianshu.com/p/d1a7c62901f0
+
+http://tjhuaze.com/u/cms/ctzj/201706/22135534eqel.pdf
+
+* ##### Head First JavaScript程序设计
+
+http://www.java1234.com/a/javabook/webbase/2018/0821/11768.html
+
+https://www.linuxprobe.com/head-first-javascript.html
+
+http://www.itmop.com/key/headfirst/
 
