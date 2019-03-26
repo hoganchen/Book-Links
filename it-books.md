@@ -228,7 +228,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwjeqYCJ-tjgAhVZIqYKHa3jAtgQFjAHegQIAxAC&url=http%3A%2F%2Fmantis.testlink.org%2Ffile\_download.php%3Ffile\_id%3D3303%26type%3Dbug&usg=AOvVaw1Rj1YYXY4IBsBqo-0Cj5BW](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwjeqYCJ-tjgAhVZIqYKHa3jAtgQFjAHegQIAxAC&url=http%3A%2F%2Fmantis.testlink.org%2Ffile_download.php%3Ffile_id%3D3303%26type%3Dbug&usg=AOvVaw1Rj1YYXY4IBsBqo-0Cj5BW)
 
-#### 2019-02-27\(未下载\)
+#### 2019-02-27\(已下载\)
 
 * ##### TestLink
 
@@ -240,25 +240,37 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [http://www.yunpangou.com/114805145913234047](http://www.yunpangou.com/114805145913234047)
 
-#### 2019-03-20\(未下载\)
+#### 2019-03-20\(已下载\)
 
 * ##### 图解HTTP
 
-http://www.yuanxiao.me/2018/11/29/graphic-http/
+[http://www.yuanxiao.me/2018/11/29/graphic-http/](http://www.yuanxiao.me/2018/11/29/graphic-http/)
 
-https://github.com/Pines-Cheng/share/blob/master/books/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%9B%BE%E8%A7%A3HTTP%20.pdf
+[https://github.com/Pines-Cheng/share/blob/master/books/计算机网络/图解HTTP .pdf](https://github.com/Pines-Cheng/share/blob/master/books/计算机网络/图解HTTP .pdf)
 
-https://blog.csdn.net/lk142500/article/details/82106956
+[https://blog.csdn.net/lk142500/article/details/82106956](https://blog.csdn.net/lk142500/article/details/82106956)
 
-https://www.jianshu.com/p/d1a7c62901f0
+[https://www.jianshu.com/p/d1a7c62901f0](https://www.jianshu.com/p/d1a7c62901f0)
 
-http://tjhuaze.com/u/cms/ctzj/201706/22135534eqel.pdf
+[http://tjhuaze.com/u/cms/ctzj/201706/22135534eqel.pdf](http://tjhuaze.com/u/cms/ctzj/201706/22135534eqel.pdf)
 
 * ##### Head First JavaScript程序设计
 
-http://www.java1234.com/a/javabook/webbase/2018/0821/11768.html
+[http://www.java1234.com/a/javabook/webbase/2018/0821/11768.html](http://www.java1234.com/a/javabook/webbase/2018/0821/11768.html)
 
-https://www.linuxprobe.com/head-first-javascript.html
+[https://www.linuxprobe.com/head-first-javascript.html](https://www.linuxprobe.com/head-first-javascript.html)
 
-http://www.itmop.com/key/headfirst/
+[http://www.itmop.com/key/headfirst/](http://www.itmop.com/key/headfirst/)
+
+#### 2019-03-26\(未下载\)
+
+* ##### Python3网络爬虫开发实战
+
+https://cuiqingcai.com/5052.html
+
+https://www.jianshu.com/p/0331a157882d
+
+https://www.twblogs.net/a/5b7e77d32b71776838578ad8/zh-cn/
+
+
 
