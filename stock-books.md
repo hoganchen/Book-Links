@@ -86,3 +86,21 @@ google search with keyword "短线交易秘诀 pdf"
 
 [http://mebook.cc/25025.html](http://mebook.cc/25025.html)
 
+#### 2019-04-10\(未下载\)
+
+* ##### 千炼成妖
+
+http://www.gucuan.com/lbyrm/431.html
+
+* ##### 教你炒股票
+
+http://www.panduoduo.net/r/40002212
+
+http://www.ireadweek.com/index.php/bookInfo/10900.html
+
+https://5kindle.com/books/18295/
+
+http://edu.15kankan.com/info/IoF540572
+
+
+
