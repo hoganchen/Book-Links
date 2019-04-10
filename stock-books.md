@@ -106,5 +106,7 @@ google search with keyword "短线交易秘诀 pdf"
 
 [http://edu.15kankan.com/info/IoF540572](http://edu.15kankan.com/info/IoF540572)
 
-http://mydbfx.com/?p=2840
+[http://mydbfx.com/?p=2840](http://mydbfx.com/?p=2840)
+
+https://skebooks.com/book/info/72983.html
 
