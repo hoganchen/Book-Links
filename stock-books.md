@@ -90,17 +90,19 @@ google search with keyword "短线交易秘诀 pdf"
 
 * ##### 千炼成妖
 
-http://www.gucuan.com/lbyrm/431.html
+[http://www.gucuan.com/lbyrm/431.html](http://www.gucuan.com/lbyrm/431.html)
 
 * ##### 教你炒股票
 
-http://www.panduoduo.net/r/40002212
+[http://www.panduoduo.net/r/40002212](http://www.panduoduo.net/r/40002212)
 
-http://www.ireadweek.com/index.php/bookInfo/10900.html
+https://pan.baidu.com/s/12XjHz?fid=349642787252676
 
-https://5kindle.com/books/18295/
+https://pan.baidu.com/s/1sjCBYyT
 
-http://edu.15kankan.com/info/IoF540572
+[http://www.ireadweek.com/index.php/bookInfo/10900.html](http://www.ireadweek.com/index.php/bookInfo/10900.html)
 
+[https://5kindle.com/books/18295/](https://5kindle.com/books/18295/)
 
+[http://edu.15kankan.com/info/IoF540572](http://edu.15kankan.com/info/IoF540572)
 
