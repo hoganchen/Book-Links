@@ -262,15 +262,13 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [http://www.itmop.com/key/headfirst/](http://www.itmop.com/key/headfirst/)
 
-#### 2019-03-26\(未下载\)
+#### 2019-03-26\(已下载\)
 
 * ##### Python3网络爬虫开发实战
 
-https://cuiqingcai.com/5052.html
+[https://cuiqingcai.com/5052.html](https://cuiqingcai.com/5052.html)
 
-https://www.jianshu.com/p/0331a157882d
+[https://www.jianshu.com/p/0331a157882d](https://www.jianshu.com/p/0331a157882d)
 
-https://www.twblogs.net/a/5b7e77d32b71776838578ad8/zh-cn/
-
-
+[https://www.twblogs.net/a/5b7e77d32b71776838578ad8/zh-cn/](https://www.twblogs.net/a/5b7e77d32b71776838578ad8/zh-cn/)
 

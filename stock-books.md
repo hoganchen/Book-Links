@@ -86,7 +86,7 @@ google search with keyword "短线交易秘诀 pdf"
 
 [http://mebook.cc/25025.html](http://mebook.cc/25025.html)
 
-#### 2019-04-10\(未下载\)
+#### 2019-04-10\(已下载\)
 
 * ##### 千炼成妖
 
@@ -108,5 +108,5 @@ google search with keyword "短线交易秘诀 pdf"
 
 [http://mydbfx.com/?p=2840](http://mydbfx.com/?p=2840)
 
-https://skebooks.com/book/info/72983.html
+[https://skebooks.com/book/info/72983.html](https://skebooks.com/book/info/72983.html)
 
