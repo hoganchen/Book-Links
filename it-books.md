@@ -276,5 +276,13 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### TestLink
 
-https://wiki.jenkins.io/download/attachments/753702/jenkins.pdf
+[https://wiki.jenkins.io/download/attachments/753702/jenkins.pdf](https://wiki.jenkins.io/download/attachments/753702/jenkins.pdf)
+
+#### 2019-04-25\(未下载\)
+
+* ##### TestLink xml format
+
+http://demo.testlink.org/latest//docs/tl-file-formats.pdf
+
+
 
