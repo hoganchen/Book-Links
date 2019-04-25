@@ -282,7 +282,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### TestLink xml format
 
-http://demo.testlink.org/latest//docs/tl-file-formats.pdf
+[http://demo.testlink.org/latest//docs/tl-file-formats.pdf](http://demo.testlink.org/latest//docs/tl-file-formats.pdf)
 
-
+http://demo.testlink.org/latest/docs/testlink\_user\_manual.pdf
 
