@@ -286,3 +286,9 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [http://demo.testlink.org/latest/docs/testlink\_user\_manual.pdf](http://demo.testlink.org/latest/docs/testlink_user_manual.pdf)
 
+#### 2019-05-27\(未下载\)
+
+* ##### 神经网络与深度学习
+
+https://nndl.github.io/
+
