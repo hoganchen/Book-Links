@@ -110,3 +110,13 @@ google search with keyword "短线交易秘诀 pdf"
 
 [https://skebooks.com/book/info/72983.html](https://skebooks.com/book/info/72983.html)
 
+#### 2019-07-16\(未下载\)
+
+* ##### 炒股的智慧
+
+http://www.goodgupiao.com/soft/softdown.asp?softid=49668
+
+https://www.taoshudang.com/33458.html
+
+
+
