@@ -5,4 +5,5 @@
 * [Stock Books](stock-books.md)
 * [Misc Books](misc-books.md)
 * [Education Books](education-books.md)
+* [eBook List](ebook-list.md)
 
