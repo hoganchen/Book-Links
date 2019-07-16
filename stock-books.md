@@ -114,9 +114,9 @@ google search with keyword "短线交易秘诀 pdf"
 
 * ##### 炒股的智慧
 
-http://www.goodgupiao.com/soft/softdown.asp?softid=49668
+[http://www.goodgupiao.com/soft/softdown.asp?softid=49668](http://www.goodgupiao.com/soft/softdown.asp?softid=49668)
 
-https://www.taoshudang.com/33458.html
+[https://www.taoshudang.com/33458.html](https://www.taoshudang.com/33458.html)
 
-
+https://5kindle.com/books/37067/
 
