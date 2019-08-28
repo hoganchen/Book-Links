@@ -124,29 +124,29 @@ google search with keyword "短线交易秘诀 pdf"
 
 * ##### 华章金融投资经典系列
 
-https://pan.baidu.com/s/1skirDH7
+[https://pan.baidu.com/s/1skirDH7](https://pan.baidu.com/s/1skirDH7)
 
 pwd: pw9v
 
-https://pan.baidu.com/s/1CX2YkCz6RwxSbYHZCWn1vQ
+[https://pan.baidu.com/s/1CX2YkCz6RwxSbYHZCWn1vQ](https://pan.baidu.com/s/1CX2YkCz6RwxSbYHZCWn1vQ)
 
-https://pan.baidu.com/s/117STAM4j7eKXwrgnW0C9Qw
+[https://pan.baidu.com/s/117STAM4j7eKXwrgnW0C9Qw](https://pan.baidu.com/s/117STAM4j7eKXwrgnW0C9Qw)
 
-https://pan.baidu.com/s/1PPGtC
+[https://pan.baidu.com/s/1PPGtC](https://pan.baidu.com/s/1PPGtC)
 
-https://5kindle.com/a/40068/
+[https://5kindle.com/a/40068/](https://5kindle.com/a/40068/)
 
-https://www.xiaobaipan.com/list-华章 22册.html
+[https://www.xiaobaipan.com/list-华章](https://www.xiaobaipan.com/list-华章) 22册.html
 
-https://www.xiaobaipan.com/file-25669804.html
+[https://www.xiaobaipan.com/file-25669804.html](https://www.xiaobaipan.com/file-25669804.html)
 
-https://www.jianshu.com/p/8ede9f594db6
+[https://www.jianshu.com/p/8ede9f594db6](https://www.jianshu.com/p/8ede9f594db6)
+
+https://pan.baidu.com/s/1jInPF8M
 
 * ##### 全球证券投资经典译丛
 
-http://mebook.cc/20080.html
+[http://mebook.cc/20080.html](http://mebook.cc/20080.html)
 
-http://www.shuwu.mobi/20035.html
-
-
+[http://www.shuwu.mobi/20035.html](http://www.shuwu.mobi/20035.html)
 
