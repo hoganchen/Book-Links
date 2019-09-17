@@ -110,7 +110,7 @@ google search with keyword "短线交易秘诀 pdf"
 
 [https://skebooks.com/book/info/72983.html](https://skebooks.com/book/info/72983.html)
 
-#### 2019-07-16\(未下载\)
+#### 2019-07-16\(已下载\)
 
 * ##### 炒股的智慧
 
@@ -120,7 +120,7 @@ google search with keyword "短线交易秘诀 pdf"
 
 [https://5kindle.com/books/37067/](https://5kindle.com/books/37067/)
 
-#### 2019-08-28\(未下载\)
+#### 2019-08-28\(已下载\)
 
 * ##### 华章金融投资经典系列
 
@@ -142,7 +142,7 @@ pwd: pw9v
 
 [https://www.jianshu.com/p/8ede9f594db6](https://www.jianshu.com/p/8ede9f594db6)
 
-https://pan.baidu.com/s/1jInPF8M
+[https://pan.baidu.com/s/1jInPF8M](https://pan.baidu.com/s/1jInPF8M)
 
 * ##### 全球证券投资经典译丛
 
