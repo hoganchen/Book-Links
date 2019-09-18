@@ -290,5 +290,17 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### 神经网络与深度学习
 
-https://nndl.github.io/
+[https://nndl.github.io/](https://nndl.github.io/)
+
+#### 2019-09-18\(未下载\)
+
+* ##### Python网络编程
+
+https://www.jb51.net/books/591411.html
+
+https://www.ituring.com.cn/book/1552
+
+https://www.tldp.org/HOWTO/pdf/TCP-Keepalive-HOWTO.pdf
+
+https://keelii.gitbooks.io/socket-programming-in-python-cn/content/
 
