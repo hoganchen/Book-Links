@@ -296,11 +296,23 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### Python网络编程
 
-https://www.jb51.net/books/591411.html
+[https://www.jb51.net/books/591411.html](https://www.jb51.net/books/591411.html)
 
-https://www.ituring.com.cn/book/1552
+[https://www.ituring.com.cn/book/1552](https://www.ituring.com.cn/book/1552)
 
-https://www.tldp.org/HOWTO/pdf/TCP-Keepalive-HOWTO.pdf
+[https://www.tldp.org/HOWTO/pdf/TCP-Keepalive-HOWTO.pdf](https://www.tldp.org/HOWTO/pdf/TCP-Keepalive-HOWTO.pdf)
 
-https://keelii.gitbooks.io/socket-programming-in-python-cn/content/
+[https://keelii.gitbooks.io/socket-programming-in-python-cn/content/](https://keelii.gitbooks.io/socket-programming-in-python-cn/content/)
+
+#### 2019-11-17\(未下载\)
+
+* ##### BLE
+
+[https://community.arm.com/cn/b/blog/posts/ble](https://community.arm.com/cn/b/blog/posts/ble)
+
+https://community.arm.com/cfs-file/\_\_key/telligent-evolution-components-attachments/01-2057-00-00-00-00-61-61/IoTDeepDive2\_2D00\_IntrotoBLE.pdf
+
+https://e2echina.ti.com/cfs-file/\_\_key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE\_4367015A59650B7A\_.pdf
+
+
 
