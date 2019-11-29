@@ -286,13 +286,13 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [http://demo.testlink.org/latest/docs/testlink\_user\_manual.pdf](http://demo.testlink.org/latest/docs/testlink_user_manual.pdf)
 
-#### 2019-05-27\(未下载\)
+#### 2019-05-27\(已下载\)
 
 * ##### 神经网络与深度学习
 
 [https://nndl.github.io/](https://nndl.github.io/)
 
-#### 2019-09-18\(未下载\)
+#### 2019-09-18\(已下载\)
 
 * ##### Python网络编程
 
@@ -304,15 +304,13 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://keelii.gitbooks.io/socket-programming-in-python-cn/content/](https://keelii.gitbooks.io/socket-programming-in-python-cn/content/)
 
-#### 2019-11-17\(未下载\)
+#### 2019-11-17\(已下载\)
 
 * ##### BLE
 
 [https://community.arm.com/cn/b/blog/posts/ble](https://community.arm.com/cn/b/blog/posts/ble)
 
-https://community.arm.com/cfs-file/\_\_key/telligent-evolution-components-attachments/01-2057-00-00-00-00-61-61/IoTDeepDive2\_2D00\_IntrotoBLE.pdf
+[https://community.arm.com/cfs-file/\_\_key/telligent-evolution-components-attachments/01-2057-00-00-00-00-61-61/IoTDeepDive2\_2D00\_IntrotoBLE.pdf](https://community.arm.com/cfs-file/__key/telligent-evolution-components-attachments/01-2057-00-00-00-00-61-61/IoTDeepDive2_2D00_IntrotoBLE.pdf)
 
-https://e2echina.ti.com/cfs-file/\_\_key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE\_4367015A59650B7A\_.pdf
-
-
+[https://e2echina.ti.com/cfs-file/\_\_key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE\_4367015A59650B7A\_.pdf](https://e2echina.ti.com/cfs-file/__key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE_4367015A59650B7A_.pdf)
 
