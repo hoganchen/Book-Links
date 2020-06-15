@@ -322,3 +322,17 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 * ##### 程序员的自我修养：链接、装载与库
 [http://www.fast8.com/view/16062.html](http://www.fast8.com/view/16062.html)
+
+#### 2020-06-11\(未下载\)
+
+* ##### sed and awk
+[https://jimmysong.io/linux-practice/books/sed_and_awk_101_hacks_chinese_edition.pdf](https://jimmysong.io/linux-practice/books/sed_and_awk_101_hacks_chinese_edition.pdf)  
+[https://www.jb51.net/books/205059.html](https://www.jb51.net/books/205059.html)  
+[https://github.com/wuzhouhui/awk](https://github.com/wuzhouhui/awk)  
+[http://pyinx.github.io/2011/08/18/9/](http://pyinx.github.io/2011/08/18/9/)  
+[https://linuxstory.gitbook.io/advanced-bash-scripting-guide-in-chinese/](https://linuxstory.gitbook.io/advanced-bash-scripting-guide-in-chinese/)  
+[https://github.com/devops007/Sed-and-Awk-101-Hacks](https://github.com/devops007/Sed-and-Awk-101-Hacks)  
+[https://www.bookstack.cn/read/linux-101-hacks-zh/5179a0530cd35b3c.md](https://www.bookstack.cn/read/linux-101-hacks-zh/5179a0530cd35b3c.md)  
+[https://github.com/wuzhouhui/misc](https://github.com/wuzhouhui/misc)  
+[https://linuxtoy.org/archives/linux-101-hacks-chinese-edition.html](https://linuxtoy.org/archives/linux-101-hacks-chinese-edition.html)  
+[https://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/](https://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
