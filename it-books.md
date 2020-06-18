@@ -314,11 +314,14 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://e2echina.ti.com/cfs-file/\_\_key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE\_4367015A59650B7A\_.pdf](https://e2echina.ti.com/cfs-file/__key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE_4367015A59650B7A_.pdf)
 
-#### 2020-06-11\(已下载\)
+#### 2020-06-11\(未下载\)
 
 * ##### ARM汇编指令集
 [http://infocenter.arm.com/help/topic/com.arm.doc.dui0204ic/DUI0204IC_rvct_assembler_guide.pdf](http://infocenter.arm.com/help/topic/com.arm.doc.dui0204ic/DUI0204IC_rvct_assembler_guide.pdf)  
-[http://jpkc.hycollege.net/zndz/admin/uploadfile/201003/20100315195352483.pdf](http://jpkc.hycollege.net/zndz/admin/uploadfile/201003/20100315195352483.pdf)
+[http://infocenter.arm.com/help/topic/com.arm.doc.qrc0001mc/QRC0001_UAL.pdf](http://infocenter.arm.com/help/topic/com.arm.doc.qrc0001mc/QRC0001_UAL.pdf)  
+[http://jpkc.hycollege.net/zndz/admin/uploadfile/201003/20100315195352483.pdf](http://jpkc.hycollege.net/zndz/admin/uploadfile/201003/20100315195352483.pdf)  
+[https://files-cdn.cnblogs.com/files/mddblog/arm%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4%E9%9B%86.pdf](https://files-cdn.cnblogs.com/files/mddblog/arm%E6%B1%87%E7%BC%96%E6%8C%87%E4%BB%A4%E9%9B%86.pdf)  
+[https://edu.heibai.org/ARM%E8%B5%84%E6%96%99/ARM%E6%8C%87%E4%BB%A4%E9%9B%86.pdf](https://edu.heibai.org/ARM%E8%B5%84%E6%96%99/ARM%E6%8C%87%E4%BB%A4%E9%9B%86.pdf)
 
 * ##### 程序员的自我修养：链接、装载与库
 [http://www.fast8.com/view/16062.html](http://www.fast8.com/view/16062.html)
@@ -336,3 +339,16 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 [https://github.com/wuzhouhui/misc](https://github.com/wuzhouhui/misc)  
 [https://linuxtoy.org/archives/linux-101-hacks-chinese-edition.html](https://linuxtoy.org/archives/linux-101-hacks-chinese-edition.html)  
 [https://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/](https://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
+
+#### 2020-06-18\(未下载\)
+
+* ##### dialog BLE培训资料
+[https://www.dialog-semiconductor.com/sites/default/files/training_01_advertising_contents_v1.0_chinese.pdf](https://www.dialog-semiconductor.com/sites/default/files/training_01_advertising_contents_v1.0_chinese.pdf)  
+[https://www.dialog-semiconductor.com/sites/default/files/training_02_custom_profile_example_v1.0_chinese_0.pdf](https://www.dialog-semiconductor.com/sites/default/files/training_02_custom_profile_example_v1.0_chinese_0.pdf)  
+[https://www.dialog-semiconductor.com/sites/default/files/training_03_custom_profile_gatt_cmd_example_v1_0_chinese_0.pdf](https://www.dialog-semiconductor.com/sites/default/files/training_03_custom_profile_gatt_cmd_example_v1_0_chinese_0.pdf)  
+[https://www.dialog-semiconductor.com/sites/default/files/training_04_sleep_modes_current_measurement_v1.0_chinese_0.pdf](https://www.dialog-semiconductor.com/sites/default/files/training_04_sleep_modes_current_measurement_v1.0_chinese_0.pdf)  
+[https://www.dialog-semiconductor.com/sites/default/files/training_05_ble_security_example_v1.0_chinese.pdf](https://www.dialog-semiconductor.com/sites/default/files/training_05_ble_security_example_v1.0_chinese.pdf)
+
+* ##### BLE Intro
+[http://crifan.com/files/doc/docbook/bluetooth_intro/release/html/bluetooth_intro.html](http://crifan.com/files/doc/docbook/bluetooth_intro/release/html/bluetooth_intro.html)  
+[https://www.crifan.com/files/doc/docbook/bluetooth_intro/release/pdf/bluetooth_intro.pdf](https://www.crifan.com/files/doc/docbook/bluetooth_intro/release/pdf/bluetooth_intro.pdf)
