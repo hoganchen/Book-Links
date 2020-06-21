@@ -314,7 +314,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 
 [https://e2echina.ti.com/cfs-file/\_\_key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE\_4367015A59650B7A\_.pdf](https://e2echina.ti.com/cfs-file/__key/telligent-evolution-components-attachments/00-23-00-00-00-08-07-37/BLE_4367015A59650B7A_.pdf)
 
-#### 2020-06-11\(未下载\)
+#### 2020-06-11\(已下载\)
 
 * ##### ARM汇编指令集
 [http://infocenter.arm.com/help/topic/com.arm.doc.dui0204ic/DUI0204IC_rvct_assembler_guide.pdf](http://infocenter.arm.com/help/topic/com.arm.doc.dui0204ic/DUI0204IC_rvct_assembler_guide.pdf)  
@@ -326,7 +326,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 * ##### 程序员的自我修养：链接、装载与库
 [http://www.fast8.com/view/16062.html](http://www.fast8.com/view/16062.html)
 
-#### 2020-06-15\(未下载\)
+#### 2020-06-15\(已下载\)
 
 * ##### sed and awk
 [https://jimmysong.io/linux-practice/books/sed_and_awk_101_hacks_chinese_edition.pdf](https://jimmysong.io/linux-practice/books/sed_and_awk_101_hacks_chinese_edition.pdf)  
@@ -340,7 +340,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 [https://linuxtoy.org/archives/linux-101-hacks-chinese-edition.html](https://linuxtoy.org/archives/linux-101-hacks-chinese-edition.html)  
 [https://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/](https://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
 
-#### 2020-06-18\(未下载\)
+#### 2020-06-18\(已下载\)
 
 * ##### dialog BLE培训资料
 [https://www.dialog-semiconductor.com/sites/default/files/training_01_advertising_contents_v1.0_chinese.pdf](https://www.dialog-semiconductor.com/sites/default/files/training_01_advertising_contents_v1.0_chinese.pdf)  
