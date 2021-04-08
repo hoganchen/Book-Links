@@ -352,3 +352,48 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 * ##### BLE Intro
 [http://crifan.com/files/doc/docbook/bluetooth_intro/release/html/bluetooth_intro.html](http://crifan.com/files/doc/docbook/bluetooth_intro/release/html/bluetooth_intro.html)  
 [https://www.crifan.com/files/doc/docbook/bluetooth_intro/release/pdf/bluetooth_intro.pdf](https://www.crifan.com/files/doc/docbook/bluetooth_intro/release/pdf/bluetooth_intro.pdf)
+
+#### 2021-04-08\(未下载\)
+
+* ##### ARM嵌入式系统开发-软件设计与优化
+https://www.amobbs.com/thread-3273419-1-1.html
+
+https://d1.amobbs.com/bbs_upload782111/files_13/ourdev_432442.pdf
+
+http://chiataimakro.vicp.cc:8880/%E5%BE%85%E6%95%B4%E7%90%86/ARM%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%EF%BC%9A%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BC%98%E5%8C%96.pdf
+
+https://github.com/yulsfish/books/blob/master/ARM%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%EF%BC%9A%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E4%B8%8E%E4%BC%98%E5%8C%96.pdf
+
+* ##### BLE-Finding-Direction
+https://www.silabs.com/documents/public/presentations/ew-2018-understanding-advanced-bluetooth-angle-estimation-techniques-for-real-time-locationing.pdf
+
+https://cdn.rohde-schwarz.com.cn/pws/dl_downloads/dl_application/application_notes/gfm327/GFM327_1e_Bluetooth_Low_Energy_5.1.pdf
+
+* ##### BLE-Version-Changes
+http://www.tuner168.com/uploads/soft/170221/3-1F221140329.pdf
+
+https://www.bluetooth.com/zh-cn/bluetooth-resources/bluetooth-5-go-faster-go-further/
+
+https://www.bluetooth.com/zh-cn/bluetooth-resources/bluetooth-core-specification-v5-1-feature-overview/
+
+https://www.bluetooth.com/zh-cn/bluetooth-resources/bluetooth-core-specification-version-5-2-feature-overview/
+
+* ##### 一张图搞懂蓝牙广播
+http://wywiot.com/ble_tips_study_ble_adv_in_one_picture/
+
+* ##### Cortex-M3 技术参考手册
+https://www.amobbs.com/thread-3463285-1-1.html
+
+https://www.waveshare.net/w/upload/9/91/Cortex-M3_guide_manual(CN).pdf
+
+http://users.ece.utexas.edu/~valvano/EE345L/Labs/Fall2011/CortexM4_TRM_r0p1.pdf
+
+http://discourse-production.oss-cn-shanghai.aliyuncs.com/original/3X/a/2/a2c6f2922ad7fd61a9dd333a0931608d124a90d9.pdf
+
+https://www.waveshare.net/w/upload/9/99/Cortex_M3_Definitive_Guide(EN).pdf
+
+https://www.keil.com/dd/docs/datashts/arm/cortex_m3/r2p0/ddi0337g_cortex_m3_r2p0_trm.pdf
+
+https://community.arm.com/cfs-file/__key/telligent-evolution-components-attachments/01-2671-00-00-00-00-54-32/_4C5D65510F5F4B4E_ARM_005FD1537F67CF7E7851EE95547B9898C696_.pdf
+
+http://comm.eefocus.com/media/download/index/id-1001831
