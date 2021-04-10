@@ -150,7 +150,7 @@ pwd: pw9v
 
 [http://www.shuwu.mobi/20035.html](http://www.shuwu.mobi/20035.html)
 
-#### 2021-04-08\(未下载\)
+#### 2021-04-08\(已下载\)
 
 * ##### 手把手教你读财报2
 http://www.duodu.cc/a/jingguan/2345.html
