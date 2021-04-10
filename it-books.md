@@ -353,7 +353,7 @@ Keyword： ‘VC 串口 超时 filetype:pdf’ in google search engine
 [http://crifan.com/files/doc/docbook/bluetooth_intro/release/html/bluetooth_intro.html](http://crifan.com/files/doc/docbook/bluetooth_intro/release/html/bluetooth_intro.html)  
 [https://www.crifan.com/files/doc/docbook/bluetooth_intro/release/pdf/bluetooth_intro.pdf](https://www.crifan.com/files/doc/docbook/bluetooth_intro/release/pdf/bluetooth_intro.pdf)
 
-#### 2021-04-08\(未下载\)
+#### 2021-04-08\(已下载\)
 
 * ##### ARM嵌入式系统开发-软件设计与优化
 https://www.amobbs.com/thread-3273419-1-1.html
